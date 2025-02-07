@@ -2,7 +2,10 @@
 - 👀 I’m a data analyst who is eager to learn and expand my skills. 
 - 🌱 I’m currently working on a Master's degree in Biological Data Science. 
 - 💞️ I’m looking to expand my skills in Python, Machine Learning, and Automation. 
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/martin-orkuma/)
+- 📫 How to reach me on [LinkedIn.](https://www.linkedin.com/in/martin-orkuma/)
+
+**Technical Skills:**
+R Programming, Python, Tableau, MySQL
 
 
 <!---
