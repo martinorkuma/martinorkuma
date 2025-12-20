@@ -5,7 +5,7 @@
 - 📫 How to reach me on [LinkedIn.](https://www.linkedin.com/in/martin-orkuma/)
 
 **Technical Skills:**
-Excel, SQL, R Programming, Python, Unix, Tableau, and Power BI.
+Excel, SQL, R Programming, Python, Unix, WSL, Tableau, and Power BI.
 
 <!---
 martinorkuma/martinorkuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
