@@ -11,7 +11,7 @@ I am currently pursuing a Master’s degree in Biological Data Science and have 
 
 **🚀 Technical Toolkit**
 
-- Programming & Scripting: 🐍 Python | 📊 R | 🐧 Bash (WSL/Linux)
+- Programming & Scripting: Python, R, Bash (WSL/Linux)
 
 - Data Science & ML: Statistical modeling, supervised & unsupervised learning, EDA, feature engineering
 - Data Handling: Data cleaning, validation, transformation, reproducible pipelines
