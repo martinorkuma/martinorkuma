@@ -20,6 +20,8 @@ I am currently pursuing a Master’s degree in Biological Data Science and have 
 
 
 **📂Featured Repositories**
+- [nmr-ovarian-follicle-ml](https://github.com/ReproAnalytics/nmr-ovarian-follicle-ml) <br>
+  End-to-end machine learning pipeline for automated ovarian follicle segmentation and counting in naked mole rat histological images, integrating reproducible preprocessing, annotation, model training, and evaluation workflows.
 - [fetal-ovarian-reserve-comparative](https://github.com/martinorkuma/fetal-ovarian-reserve-comparative) <br>
   Comparative analysis of fetal ovarian reserve formation across three mammalian species using histological and biological datasets.
 - [alzheimers_disease_project](https://github.com/martinorkuma/alzheimers_disease_project) <br>
