@@ -1,6 +1,6 @@
 👋 Hi, I’m Martin Orkuma 
 
-I am an aspiring Data Scientist with a strong foundation in genetics research, biological data science, and military operations. <br>
+Data Scientist with an active Secret Clearance and over 4 years of experience turning data into clear insights and actionable strategies for making data-driven solutions. <br>
 My work focuses on building reproducible, data-driven pipelines that translate complex datasets into actionable insights.
 
 I am currently pursuing a Master’s degree in Biological Data Science and have experience in statistical modeling, machine learning, and cross-platform analytics workflows.
@@ -13,9 +13,12 @@ I am currently pursuing a Master’s degree in Biological Data Science and have 
 
 - Programming & Scripting: Python, R, Bash (WSL/Linux)
 
-- Data Science & ML: Statistical modeling, supervised & unsupervised learning, EDA, feature engineering
-- Data Handling: Data cleaning, validation, transformation, reproducible pipelines
-- Platforms & Tools: Git/GitHub, Jupyter, RStudio, WSL, virtual environments
+- Machine Learning & Analytics: Regression, Classification, Clustering, PCA, Model Evaluation, Cross Validation, TensorFlow, and PyTorch. 
+- Statistical Methods: Hypothesis Testing, ANOVA, Experimental Design, Inferential Statistics, Longitudinal Data Analysis
+- Python: Pandas, NumPy, scikit-learn, scikit-image, Matplotlib, Seaborn, virtual environments (venv)
+- Data Management: SQL (Joins, Common Table Expressions, Window Functions), data cleaning and validation
+- Data Visualization: Tableau, PowerBI, and Matplotlib. 
+- Platforms & Tools: Git/GitHub, Jupyter, RStudio, WSL, Azure, Virtual environments
 <br>
 
 
@@ -31,10 +34,10 @@ I am currently pursuing a Master’s degree in Biological Data Science and have 
 <br>
 
 **🎯 Interests & Focus Areas**
-- Biomedical data analytics
-- Reproducible research pipelines
-- Machine learning in applied life science
-- Data-driven decision-making in complex operational environments
+- Computational biology
+- Computer vision
+- Machine learning 
+- Population health outcomes
 
 <!---
 martinorkuma/martinorkuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
