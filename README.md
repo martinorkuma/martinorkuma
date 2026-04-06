@@ -23,13 +23,15 @@ I am currently pursuing a Master’s degree in Biological Data Science and have 
 
 
 **📂Featured Repositories**
-- [nmr-ovarian-follicle-ml](https://github.com/ReproAnalytics/nmr-ovarian-follicle-ml) <br>
+- [Naked Mole-Rat Ovarian Follicle Machine-Learning Project](https://github.com/ReproAnalytics/nmr-ovarian-follicle-ml) <br>
   End-to-end machine learning pipeline for automated ovarian follicle segmentation and counting in naked mole rat histological images, integrating reproducible preprocessing, annotation, model training, and evaluation workflows.
-- [fetal-ovarian-reserve-comparative](https://github.com/martinorkuma/fetal-ovarian-reserve-comparative) <br>
+- [Comparative Fetal Overaian Reserve Analysis](https://github.com/martinorkuma/fetal-ovarian-reserve-comparative) <br>
   Comparative analysis of fetal ovarian reserve formation across three mammalian species using histological and biological datasets.
-- [alzheimers_disease_project](https://github.com/martinorkuma/alzheimers_disease_project) <br>
+- [Human Accelerated Regions Comparative Genomic Project](https://github.com/martinorkuma/har-comparative-genomics) <br>
+  Human Accelerated Regions (HARs) in Comparative Genomics: Association of Human-Lineage Accelerated Noncoding Regions with Brain Development and Function.
+- [Alzheimer's Disease Demographic Analysis](https://github.com/martinorkuma/alzheimers_disease_project) <br>
   Exploratory and statistical analysis of demographic and clinical factors associated with Alzheimer’s disease diagnosis.
-- [data_breach_project](https://github.com/martinorkuma/data_breach_project) <br>
+- [US Healthcare Data Breach](https://github.com/martinorkuma/data_breach_project) <br>
   End-to-end analysis of U.S. healthcare data breaches, emphasizing data wrangling, temporal trends, and reproducible Bash-driven workflows.
 <br>
 
