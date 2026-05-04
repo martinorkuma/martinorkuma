@@ -32,10 +32,6 @@ I am currently pursuing a Master’s degree in Biological Data Science and have 
   An end-to-end biological data science project that uses Bash and Python to automate data ingestion, cleaning, exploratory analysis, feature engineering, and machine learning on Anolis lizard trait data to study evolutionary patterns and build a reproducible ML pipeline.
 - [Comparative Fetal Overaian Reserve Analysis](https://github.com/martinorkuma/fetal-ovarian-reserve-comparative) <br>
   Comparative analysis of fetal ovarian reserve formation across three mammalian species using histological and biological datasets.
-- [Alzheimer's Disease Demographic Analysis](https://github.com/martinorkuma/alzheimers_disease_project) <br>
-  Exploratory and statistical analysis of demographic and clinical factors associated with Alzheimer’s disease diagnosis.
-- [US Healthcare Data Breach](https://github.com/martinorkuma/data_breach_project) <br>
-  End-to-end analysis of U.S. healthcare data breaches, emphasizing data wrangling, temporal trends, and reproducible Bash-driven workflows.
 <br>
 
 **🎯 Interests & Focus Areas**
